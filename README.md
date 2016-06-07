@@ -14,7 +14,7 @@ The Project was build for my Web Database Lab Course. Team members was [Me][df1]
 
 ### Development
 
-Want to contribute? Great! We Are most Welcome
+Want to contribute? Great! You Are most Welcome
 
 
    [df1]: <http://www.facebook.com/emtiazzahid/>
